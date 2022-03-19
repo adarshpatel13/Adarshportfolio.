@@ -1,4 +1,3 @@
-# Adarshportfolio.io
 # Adarshportfolio
 # About me
 My self Adarsh Patel.I am currently pursuing Data Analytics of Business Decision Making in Durham College.In my native country India i completed bechlors of engineering in Computer Science stream.My goal is to be Data scientist and to construct the means for extracting business-focused insights from data.
