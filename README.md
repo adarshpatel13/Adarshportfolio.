@@ -1,5 +1,5 @@
 # About me
-My self Adarsh Patel.I am currently pursuing Data Analytics of Business Decision Making in Durham College.In my native country India i completed bechlors of engineering in Computer Science stream.My goal is to be Data scientist and to construct the means for extracting business-focused insights from data. Here i provide my Personal Roadmap :
+My self Adarsh Patel.I am currently pursuing Data Analytics of Business Decision Making in Durham College.In my native country India i completed bechlors of engineering in Computer Science stream.My goal is to be Data scientist and to construct the means for extracting business-focused insights from data. Here i provide my Personal Roadmap for Beginning, My current States and potential Future states :
 
 
 ![image](https://user-images.githubusercontent.com/95538068/163631620-73ca7d45-cc25-4db4-a10f-d7eafad49092.png)
