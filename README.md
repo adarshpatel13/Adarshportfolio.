@@ -1,5 +1,5 @@
 # About me
-My self Adarsh Patel.I am currently pursuing Data Analytics of Business Decision Making in Durham College.In my native country India i completed bechlors of engineering in Computer Science stream.My goal is to be Data scientist and to construct the means for extracting business-focused insights from data.
+My self Adarsh Patel.I am currently pursuing Data Analytics of Business Decision Making in Durham College.In my native country India i completed bechlors of engineering in Computer Science stream.My goal is to be Data scientist and to construct the means for extracting business-focused insights from data.here
 # My skills
 1.	Programming: I have knowledge of various programming languages, such as Python, C/C++, SQL, and Java, with Python being the most common coding language required in data science roles. These programming languages help data scientists organize unstructured data sets.
 2.	Knowledge of SAS and Other Analytical Tools: Understanding analytical tools is an important data scientist skill for extracting valuable information from a well-organized data set. The most popular data analytics tools used by data scientists are SAS, Hadoop and Recertification’s can help me to gain this valuable data scientist skill by establishing your expertise in these analytical tools!
